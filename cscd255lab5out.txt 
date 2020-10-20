@@ -1,0 +1,203 @@
+
+
+ clang-7 -pthread -lm -o main lab5.c main.c
+ ./main
+Enter a non-negative integer: -1
+Negative numbers are not allowed
+Enter a non-negative integer: 0
+Zero is not allowed
+Enter a non-negative integer: 123
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 2
+zeros: 0, evens: 1, odds: 2
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 3
+Prime numbers between 2 and the integer: 2  3  5  7  11  13  17  19  23  29  31  37  41  43  47  53  59  61  67  71  73  79  83  89  97  101  103  107  109  113  
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 4
+The Reversed Integer: 321
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
+
+
+
+
+
+ clang-7 -pthread -lm -o main lab5.c main.c
+ ./main
+Enter a non-negative integer: 1
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 0
+
+You entered an invalid menu choice.
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 6
+
+You entered an invalid menu choice.
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 1
+Enter a non-negative integer: 123456789
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 4
+The Reversed Integer: 987654321
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
+
+
+
+
+
+
+
+ clang-7 -pthread -lm -o main lab5.c main.c
+ ./main
+Enter a non-negative integer: 100 
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 2
+zeros: 2, evens: 0, odds: 1
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 3
+Prime numbers between 2 and the integer: 2  3  5  7  11  13  17  19  23  29  31  37  41  43  47  53  59  61  67  71  73  79  83  89  97  
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 4
+The Reversed Integer: 001
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
+
+
+
+
+
+ clang-7 -pthread -lm -o main lab5.c main.c
+ ./main
+Enter a non-negative integer: -123000
+Negative numbers are not allowed
+Enter a non-negative integer: 123000
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 2
+zeros: 3, evens: 1, odds: 2
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 4
+The Reversed Integer: 000321
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 1
+Enter a non-negative integer: 12
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 3
+Prime numbers between 2 and the integer: 2  3  5  7  11  
+
+The menu choices are
+1. Enter a new number
+2. Print the number of odd digits, even digits and zeros in the integer
+3. Print the prime numbers between 2 and the integer (inclusive)
+4. Print the number in reverse order
+5. Quit the program
+Choose: 5
+Good Bye
+ 
